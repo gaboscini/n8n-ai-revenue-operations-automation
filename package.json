@@ -1,0 +1,15 @@
+{
+  "name": "n8n-ai-revenue-operations-automation",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Static validation for an enterprise-style n8n Revenue Operations portfolio workflow.",
+  "scripts": {
+    "test": "node scripts/validate-workflow.mjs",
+    "validate": "node scripts/validate-workflow.mjs"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "license": "MIT",
+  "author": "gaboscini"
+}
